@@ -6,5 +6,11 @@
 + OpenJDK 17 or later
 + Gradle
 
-It can be run by using the ./gradlew build and then the ./gradlew run command in the root directory.
-There is also a gradlew.bat script for windows users that should work in the same way, however it has not been tested.
+#### It can be run by using the ./gradlew build and then the ./gradlew run command in the root directory.
+
+#### There is also a gradlew.bat script for windows users that should work in the same way, however it has not been tested.
+
+### Improvements for the future
++ Add unit tests
++ Add proper error handling and validation
+
